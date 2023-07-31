@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=crespogianina&show_icons=true&locale=en" alt="crespogianina" /></p>
 ## **<div align="center">Hola 👋, soy Gianina Crespo</div>**  
   
 
